@@ -1,1 +1,2 @@
 developer 2 work on feature 12
+fixed a bug 
